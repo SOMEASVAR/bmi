@@ -18,5 +18,5 @@ To Create a BMI Calculator using React
 ![image](https://github.com/SOMEASVAR/bmi/assets/93434149/f0115ae5-9ec7-4a02-81cf-cf1c0d87e528)
 
 
-Result:
+# Result:
 Therefore we have succesfully created a BMI Calculator using React.
